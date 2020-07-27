@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**raghavkhanna30/raghavkhanna30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Google Cloud
+- 🔭 I’m currently working on Google Cloud 
 - 🌱 I’m currently learning Google Cloud, Python ,React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on [Invisible Cloak](https://github.com/raghavkhanna30/invisible-cloak)
+- 🤔 I’m looking for help with..... (TODO : update this :P)
+- 💬 Ask me about anything, I'll be happy to help!
+- 📫 How to reach me: Mailto:raghavkhanna54321@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I accidentally met JavaScript.
+- 😎 Linkedin - [Raghav Khanna](https://www.linkedin.com/in/erraghavkhanna/)
+- 💻 Portfolio - [Portfolio](https://raghavkhanna.netlify.com)
+
+
