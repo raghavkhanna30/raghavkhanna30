@@ -24,8 +24,15 @@
 <img width="100" src="https://cdn.qwiklabs.com/5Fn6PZF7D%2FX%2FISa5%2BZxpNTk1b1DiLrIfmQC5uSLZ4Q0%3D">
 </div>
 <div>
-
-
+Cloud Engineering
+</div>
+<div>
+Earned
+Jul  6, 2020
+</div>
+</div>
+<div class="public-profile__badge">
+<div>
 <img width="100" src="https://cdn.qwiklabs.com/s%2BXLpF9tNBTd8K4n5R6Ah0FIisf9AGbrGmDGUiFwj28%3D">
 </div>
 <div>
@@ -34,7 +41,10 @@ Networking in the Google Cloud
 <div>
 Earned
 Jul  5, 2020
-
+</div>
+</div>
+<div class="public-profile__badge">
+<div>
 <img width="100" src="https://cdn.qwiklabs.com/t0mAYb9dBpyuPWwHBFQSo2aYPkq3SwYA3%2FaR51UWM94%3D">
 </div>
 <div>
@@ -43,7 +53,10 @@ Kubernetes in Google Cloud
 <div>
 Earned
 Jul  5, 2020
-
+</div>
+</div>
+<div class="public-profile__badge">
+<div>
 <img width="100" src="https://cdn.qwiklabs.com/JW5Sblp6QejWvc1w%2F2o3Q7Wz8fwt39aa1ykTikknJQ4%3D">
 </div>
 <div>
@@ -52,7 +65,10 @@ Google Developer Essentials
 <div>
 Earned
 Jul  4, 2020
-]
+</div>
+</div>
+<div class="public-profile__badge">
+<div>
 <img width="100" src="https://cdn.qwiklabs.com/DaglcRiTwtqkPBnShSCuwfDetQnVlBZPRL3AiiPJU%2Bg%3D">
 </div>
 <div>
@@ -61,7 +77,10 @@ Baseline: Infrastructure
 <div>
 Earned
 Jun 19, 2020
-
+</div>
+</div>
+<div class="public-profile__badge">
+<div>
 <img width="100" src="https://cdn.qwiklabs.com/GHzcYBb00JYUF9Rgf3D9A4inwRHYnFtISMvcRlb%2FClU%3D">
 </div>
 <div>
@@ -70,7 +89,10 @@ Google Cloud Essentials
 <div>
 Earned
 Jun 16, 2020
-
+</div>
+</div>
+<div class="public-profile__badge">
+<div>
 <img width="100" src="https://cdn.qwiklabs.com/UBbgQEJrkrZ%2BkcWeI0mo6GvSMPm9kq9vNl5wDyfULAA%3D">
 </div>
 <div>
