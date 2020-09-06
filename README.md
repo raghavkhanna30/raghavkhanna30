@@ -29,10 +29,7 @@ Cloud Engineering
 <div>
 Earned
 Jul  6, 2020
-</div>
-</div>
-<div class="public-profile__badge">
-<div>
+
 <img width="100" src="https://cdn.qwiklabs.com/s%2BXLpF9tNBTd8K4n5R6Ah0FIisf9AGbrGmDGUiFwj28%3D">
 </div>
 <div>
