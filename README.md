@@ -17,6 +17,10 @@
 ## Google Cloud Skill Badges
 <img width="150" src="https://cdn.qwiklabs.com/NqF3Jr2JL03bGXF3GhEOALI05G5vO8lCM7lMyEaLMWs%3D"> <img width="150" src="https://cdn.qwiklabs.com/cZxPxiN6EQYvtqLY59Jzv%2FNUl6t6KTEn4rCkTHOyWPY%3D">
 
+## AWS Academy Graduate
+
+<img width="150" height="150" src="https://images.youracclaim.com/size/340x340/images/fb464d5b-5c39-44a4-b4f0-cf07897fc425/AWS-Academy-Graduate-Badge-Associate.png" alt="AWS Academy Graduate - AWS Academy Cloud Architecting" width="340" height="340">
+
 ## Extra Badges
 
 
