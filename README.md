@@ -30,5 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavkhanna30&layout=compact)](https://github.com/raghavkhanna30/raghavkhanna30)
 
+Visitors -
 
+![Visitor Count](https://profile-counter.glitch.me/raghavkhanna30/count.svg)
 
