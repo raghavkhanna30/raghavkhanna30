@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I accidentally met JavaScript.
 - 😎 Linkedin - [Raghav Khanna](https://www.linkedin.com/in/erraghavkhanna/)
 - 💻 Portfolio - [Portfolio](https://raghavkhanna.netlify.com)
-- ☁  Cloud Badges - [Badges] (https://google.qwiklabs.com/public_profiles/c20ffad7-d8b6-48d7-a180-92f874e43694)
+- ☁  Cloud Badges - [Badges](https://google.qwiklabs.com/public_profiles/c20ffad7-d8b6-48d7-a180-92f874e43694)
 
 ## Google Cloud Skill Badges
 <img width="150" src="https://cdn.qwiklabs.com/NqF3Jr2JL03bGXF3GhEOALI05G5vO8lCM7lMyEaLMWs%3D"> <img width="150" src="https://cdn.qwiklabs.com/cZxPxiN6EQYvtqLY59Jzv%2FNUl6t6KTEn4rCkTHOyWPY%3D">
